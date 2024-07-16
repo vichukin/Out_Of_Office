@@ -11,3 +11,12 @@ However, if you prefer to run it locally, here are the instructions:
 ```bash
 git clone https://github.com/vichukin/Out_Of_Office.git
 cd Out_Of_Office
+
+### 2. Running the API
+- Open the api folder in your terminal:
+```bash
+cd Out_of_Office_API
+- run the api
+```bash
+dotnet run
+
