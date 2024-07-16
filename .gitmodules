@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/vichukin/Out_of_Office_API
+[submodule "client-side"]
+	path = client-side
+	url = https://github.com/vichukin/Out_Of_Company_Client_Side
